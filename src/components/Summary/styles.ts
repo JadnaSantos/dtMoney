@@ -9,7 +9,7 @@ export const OutroContainer = styled.div`
     div{
         background: var(--shape);
         padding: 1.5rem 2rem;
-        border-raidus: 0.25rem;
+        border-radius: 0.25rem;
         color: var(--text-title);
 
         header {
@@ -19,7 +19,7 @@ export const OutroContainer = styled.div`
         }
 
         strong {
-            display: block
+            display: block;
             margin-top: 1rem;
             font-size: 2rem;
             font-weight: 500;
@@ -31,4 +31,4 @@ export const OutroContainer = styled.div`
             color: #ffff;
         }
     }
-`;
+`
